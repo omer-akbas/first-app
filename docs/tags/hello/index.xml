@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello on First App</title>
-    <link>https://github.com/omer-akbas/first-app/tags/hello/</link>
+    <link>https://omer-akbas.github.io/first-app/tags/hello/</link>
     <description>Recent content in hello on First App</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Feb 2019 23:30:30 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/omer-akbas/first-app/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omer-akbas.github.io/first-app/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selam</title>
-      <link>https://github.com/omer-akbas/first-app/posts/selam/</link>
+      <link>https://omer-akbas.github.io/first-app/posts/selam/</link>
       <pubDate>Wed, 20 Feb 2019 23:30:30 +0000</pubDate>
       
-      <guid>https://github.com/omer-akbas/first-app/posts/selam/</guid>
+      <guid>https://omer-akbas.github.io/first-app/posts/selam/</guid>
       <description>##Selam Herkese
 Selamla başlayan birinci hugo denememize hoşgeldiniz.</description>
     </item>
