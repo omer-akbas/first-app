@@ -8,6 +8,6 @@ description = "Selam Dünya"
 draft = false
 +++
 
-##Selam Herkese
+## Selam Herkese
 
 Selamla başlayan birinci hugo denememize hoşgeldiniz.
