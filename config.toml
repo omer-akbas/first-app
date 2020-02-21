@@ -1,0 +1,4 @@
+baseURL = "https://github.com/omer-akbas/first-app"
+languageCode = "en-us"
+title = "First App"
+publishDir = "docs"
